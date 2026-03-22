@@ -12,9 +12,14 @@
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
 	</head>
 	<body>
+		
 		<header id="header-stripe">
 			<a href="{{ site.baseurl }}/">
-				<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs." class="logo" />
+				<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs" title="BCU Labs" class="wordmark" />
 			</a>
-			{% if page.title and !page.title.empty? %}<h1>{{ page.title }}</h1>{% endif %}
+			<a href="{{ site.baseurl }}/">
+				<img src="{{ site.baseurl }}/assets/images/labs_logo_inkscape.svg" alt="BCU Labs" title="BCU Labs" class="logo" />
+			</a>
+			{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
 		</header>
+		<script type="module" src="{{ site.baseurl }}/assets/components/head.js"></script>

@@ -1,5 +1,5 @@
 ---
-title: Bike Data Map
+title: Projects Map
 ---
 # Explore Biking in Boston 
 

@@ -23,7 +23,7 @@
 	
 	--header-max-height: 100px;
 	--header-min-height: 50px;
-	--header-padding: 20px;
+	--header-padding: 0px;
 	--section-padding: 10px;
 	--footer-padding: 15px;
 	--button-margin: 10px;
@@ -137,12 +137,47 @@ header {
 	gap: 1rem;
 	flex-wrap: wrap;
 	padding-block: 0;
+
+	width: 100%;
+  	margin: 0;
 	
-	.logo {
+	.wordmark {
 		height: var(--header-max-height);
+		visibility: visible;
+	}
+	.logo {
+		visibility: hidden;
+		height: 0px;
 	}
 	h1 {
 		font-size: 3rem;
+		font-weight: bold;
+		padding-bottom: 10px;
+		margin: 0;
+	}
+}
+#header-stripe.fixed {
+	position: fixed;
+	top: 0;
+	z-index: 1000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	flex-wrap: wrap;
+	padding-block: 0;
+	
+	.wordmark {
+		visibility: hidden;
+		height: 0px;
+	}
+	.logo {
+		height: 50px;
+		visibility: visible;
+		padding: 5px;
+	}	
+	h1 {
+		font-size: 2rem;
 		font-weight: bold;
 	}
 }
