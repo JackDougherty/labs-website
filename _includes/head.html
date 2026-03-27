@@ -11,15 +11,16 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/ >
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
 	</head>
-	<body>
 		
+	<body>
 		<header id="header-stripe">
-			<a href="{{ site.baseurl }}/">
-				<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs" title="BCU Labs" class="wordmark" />
-			</a>
-			<a href="{{ site.baseurl }}/">
-				<img src="{{ site.baseurl }}/assets/images/labs_logo_inkscape.svg" alt="BCU Labs" title="BCU Labs" class="logo" />
+			<a href="{{ site.baseurl }}/" class="logo-link">
+				<img src="{{ site.baseurl }}/assets/images/labs_logo_inkscape.svg" alt="BCU Labs" title="BCU Labs" class="logo"/>
 			</a>
 			{% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+			<img src="{{ site.baseurl }}/assets/images/labs_logo_inkscape.svg" alt="BCU Labs" title="BCU Labs" class="menu"/>
 		</header>
-		<script type="module" src="{{ site.baseurl }}/assets/components/head.js"></script>
+		<!-- <script type="module" src="{{ site.baseurl }}/assets/components/head.js"></script> -->
+	
+	
+		<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs" title="BCU Labs" class="wordmark"/>

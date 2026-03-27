@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'BCU Labs'
 ---
 # Welcome to BCU Labs!
 ## Experiments in data-backed advocacy
