@@ -3,13 +3,11 @@ layout: full_width
 title: Forgotten Intersections
 ---
 
-<header>
-	<h1>
-		Boston Area Forgotten
-		<br />
-		<big>Intersections</big>
-	</h1>
-</header>
+<h1>
+	Greater Boston Forgotten
+	<br />
+	<big>Intersections</big>
+</h1>
 
 <section class="multi-column-row">
 	
