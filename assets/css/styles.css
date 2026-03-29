@@ -146,7 +146,8 @@ header {
 	
 	.logo {
 		height: 80%;
-		padding: 10%;
+		padding: 10% 15px;
+		margin: 0 10px;
 	}
 	.logo-link {
 		height: 100%;
@@ -166,6 +167,12 @@ header {
 		flex-shrink: 0;
 		flex-basis: 100px;
 	}
+}
+.wordmark {
+	height: var(--header-max-height);
+	max-width: 600px;  
+	display: block;
+	margin: auto;
 }
 /* The sidepanel menu */
 .sidepanel {
