@@ -17,9 +17,10 @@ Below the map we have instuctions on [how to request new bike racks](#how-to-req
 
 If you know of a specific location that could use a bike rack, we strongly encourage you to request it directly from the controlling jurisdiction. In general, this is the only way to make sure they know exactly where people will use new bike parking. Also, if people consistently request bike parking, this may increase the priority to install more racks faster.  
 
-To help, we have collected below the suggested method to request new bike racks for as many jurisdictions as we can. If you know of something we have missed, please let us know. You can also always reach out to your elected representatives, getting a bike rack installed can be a cheap and easy win for them.
+To help, we have collected below the suggested method to request new bike racks for as many jurisdictions as we can. If you know of something we have missed, please [let us know](https://forms.gle/nnsEZivUxNJYoXih9). You can also always reach out to your elected representatives, getting a bike rack installed can be a cheap and easy win for them.
 
-For private property like your favorite ice cream shop, we recommend talking with the owner/manager. They may defer to the property owner, but in that case you can ask for the proper contact information. Shop owners regularly over-estimate how many people drive to their shops, partially because drivers will complain about the parking conditions. By asking for more and better bike parking, you are also letting the shop know that people are biking to their stores, making them more likely to support other bike improvements in the area. 
+For private property like your favorite ice cream shop, we recommend talking with the owner/manager. They may defer to the property owner, but in that case you can ask for the proper contact information. Shop owners [regularly over-estimate](https://ggwash.org/view/96602/survey-most-shopkeepers-shoppers-overestimate-car-use) how many people drive to their shops, partially because drivers will complain about the parking conditions. By asking for more and better bike parking, you are also letting the shop know that people are biking to their stores, making them more likely to support other bike improvements in the area.
+
 
 ## Boston
 
@@ -58,7 +59,7 @@ We have found no published way to request new bike parking in areas maintained b
 
 Arlington Center is designated as a Parking Benefit District, which allocates the revenue from parking meters to improvements of the district. Arlington specifically includes installing new bike racks as a suggested use of this money.
 
-[waiting on response from town on how to request a rack]
+When we reached out to town staff, they recommened trying to request new bike racks using their [roadway safety form](https://www.arlingtonma.gov/town-governance/boards-and-committees/select-board/roadway-safety-request-form) and contacting the [Bicycle Advisory Committee](https://www.arlingtonma.gov/town-governance/boards-and-committees/bicycle-advisory-committee-abac).
 
 
 # How to add existing bike parking to this map

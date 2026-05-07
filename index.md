@@ -30,11 +30,15 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 	<!--<a class="link-button" href="intersections/">
 		<big>Forgotten Intersections</big>
 		<small>Where good bike lanes hit dangerous intersections</small>
-	</a>
+	</a>-->
 	<a class="link-button" href="bikeparking/">
 		<big>Bike Parking</big>
 		<small>Where can you park your bike?</small>
-	</a>-->
+	</a>
+	<a class="link-button" href="stressmap/">
+		<big>BCU Labs Projects Map</big>
+		<small>Explore multiple of our projects at the same time</small>
+	</a>
 	<a class="link-button" href="https://BostonCyclistsUnion.org/author/bcu-labs" target="_blank">
 		<big>Articles</big>
 		<small>Data analysis, stories, infrastructure projects, and more</small>
