@@ -2,7 +2,9 @@
 title: Crashes
 ---
 # Massachusetts Crash Map
-Visualize crash patterns in five regions across the state. Zoom out for a broad view of hotspots, and zoom in for street-level symbols that highlight crashes involving pedestrians, cyclists, and other vulnerable roadway users. Click on map points for more details published by the Massachusetts Department of Transportation (with additional crash data from local governments coming soon). [Explore the map in a new tab](https://picturedigits.github.io/mass-crash-map).
+Visualize crash patterns in five regions across the state. Zoom out for a broad view of hotspots, and zoom in for street-level symbols that highlight crashes involving pedestrians, cyclists, and other vulnerable roadway users. Click on map points for more details published by the Massachusetts Department of Transportation (with additional crash data from local governments coming soon).
+
+[Open the map in a new tab](https://picturedigits.github.io/mass-crash-map) to access all features, including sharing links to specific locations with other users.
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
@@ -11,7 +13,7 @@ Visualize crash patterns in five regions across the state. Zoom out for a broad 
 
 ## How We Created the Massachusetts Crash Map
 
-[BCU Labs](https://labs.bostoncyclistsunion.org) collaborated with a team of undergraduate data science students from [Boston University Spark!](https://www.bu.edu/spark/) to make crash reports more meaningful for public use. First, the BU Spark! team wrote Python code to download and pre-process public crash data to be displayed in the map. For example, MassDOT collects crash reports filed by state and local police officers across the state, who use forms with more than 20 different labels for various types of vulnerable roadway users. We grouped these labels into three broad categories, based on their general speed:
+[BCU Labs](https://labs.bostoncyclistsunion.org) collaborated with [Picturedigits](https://picturedigits.com) and a team of undergraduate data science students from [Boston University Spark!](https://www.bu.edu/spark/) to make crash reports more meaningful for public use. First, the BU Spark! team wrote Python code to download and pre-process public crash data to be displayed in the map. For example, MassDOT collects crash reports filed by state and local police officers across the state, who use forms with more than 20 different labels for various types of vulnerable roadway users. We grouped these labels into three broad categories, based on their general speed:
 
 - slow-speed vulnerable users, such as pedestrians and people in wheelchairs
 - medium-speed vulnerable users, such as bicyclists, skaters, and non-motorized scooters
