@@ -26,6 +26,10 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 	<a class="link-button" href="stressmap/">
 		<big>Bike Stress Map</big>
 		<small>See how stressful Boston's streets are</small>
+	</a>	
+	<a class="link-button" href="crashes/">
+		<big>Crash Map</big>
+		<small>See where crashes have been reported</small>
 	</a>
 	<!--<a class="link-button" href="intersections/">
 		<big>Forgotten Intersections</big>
