@@ -2,7 +2,7 @@
 title: Crashes
 ---
 # Massachusetts Crash Map
-Visualize crash patterns in five regions across the state. Zoom out for a broad view of hotspots, and zoom in for street-level symbols that highlight crashes involving pedestrians, cyclists, and other vulnerable roadway users. Click on map points for more details published by the Massachusetts Department of Transportation (with additional crash data from local governments coming soon).
+Visualize crash patterns in five regions across the state. Zoom out for a broad view of hotspots, and zoom in for street-level symbols that highlight crashes involving pedestrians, cyclists, and other vulnerable roadway users. Click on map points for more details published by the Massachusetts Department of Transportation (with additional crash data from local governments coming soon). [Share your feedback about the map](https://forms.gle/kLhR3muWdTuQtSz58) with BCU Labs.
 
 [Open the map in a new tab](https://picturedigits.github.io/mass-crash-map) to access all features, including sharing links to specific locations with other users.
 
